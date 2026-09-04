@@ -6,7 +6,7 @@
 
 **[browserlane](https://github.com/browserlane/browserlane)** · a browser automation engine built for AI agents, written in Rust. Docs at [docs.browserlane.com](https://docs.browserlane.com).
 
-**[Wrightbench](https://github.com/ShirishMunukuntla/wrightbench)** · a desktop studio for recording, running, debugging and reviewing [Playwright](https://playwright.dev) test suites. It brings Playwright's scattered tools — codegen, UI Mode, the trace viewer and HTML reports — into one Electron workspace, with multi-project management, persistent run history and flakiness analytics. Signed and notarized for macOS, Windows and Linux, with SBOM and build-provenance attestations on every release. [Download the latest release](https://github.com/ShirishMunukuntla/wrightbench/releases/latest).
+**[Wrightbench](https://github.com/ShirishMunukuntla/wrightbench-release)** · a desktop studio for recording, running, debugging and reviewing [Playwright](https://playwright.dev) test suites. It brings Playwright's scattered tools — codegen, UI Mode, the trace viewer and HTML reports — into one Electron workspace, with multi-project management, persistent run history and flakiness analytics. Signed and notarized for macOS, Authenticode-signed for Windows, with an SBOM and SHA-256 checksums on every release. [Download the latest release](https://github.com/ShirishMunukuntla/wrightbench-release/releases/latest).
 
 ## The stack I build in
 
