@@ -1,16 +1,14 @@
-# Shirish Labs
+# Shirish Munukuntla
 
-**Independent software lab building developer tools, infrastructure, and experimental products.**
+**Quality engineering leader who still ships code.** Director of Quality Engineering at QualityAI — enterprise test strategy and QE transformation, in the field since 2007. The rest of the time I build the tools I wish my teams had.
 
-Shirish Labs is the home for products created by [Shirish Munukuntla](https://github.com/ShirishMunukuntla). We build practical software for developers and quality engineers—the tools we wish existed.
+## What I build
 
-## What we build
+**[browserlane](https://github.com/browserlane/browserlane)** · a browser automation engine built for AI agents, written in Rust. Docs at [docs.browserlane.com](https://docs.browserlane.com).
 
-**[browserlane](https://github.com/browserlane/browserlane)** · browser automation for humans and AI agents. A single Rust binary with a CLI and MCP server, built directly on WebDriver BiDi. [Learn more](https://browserlane.com) or [read the documentation](https://docs.browserlane.com).
+**[Wrightbench](https://github.com/ShirishMunukuntla/wrightbench)** · a desktop studio for recording, running, debugging and reviewing [Playwright](https://playwright.dev) test suites. It brings Playwright's scattered tools — codegen, UI Mode, the trace viewer and HTML reports — into one Electron workspace, with multi-project management, persistent run history and flakiness analytics. Signed and notarized for macOS, Windows and Linux, with SBOM and build-provenance attestations on every release. [Download the latest release](https://github.com/ShirishMunukuntla/wrightbench/releases/latest).
 
-**[Wrightbench](https://github.com/ShirishMunukuntla/wrightbench)** · a desktop studio for recording, running, debugging, and reviewing Playwright test suites. It brings code generation, UI Mode, traces, reports, run history, and flakiness analytics into one workspace. [Download the latest release](https://github.com/ShirishMunukuntla/wrightbench/releases/latest).
-
-## The stack we build in
+## The stack I build in
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -25,6 +23,6 @@ Shirish Labs is the home for products created by [Shirish Munukuntla](https://gi
 
 ## Get in touch
 
-- Website: [shirishlabs.com](https://shirishlabs.com)
 - LinkedIn: [in/shirishmunukuntla](https://www.linkedin.com/in/shirishmunukuntla)
-- Email: [hello@shirishlabs.com](mailto:hello@shirishlabs.com)
+- Email: [ping@shirishmunukuntla.com](mailto:ping@shirishmunukuntla.com)
+- Website: [shirishmunukuntla.com](https://shirishmunukuntla.com)
